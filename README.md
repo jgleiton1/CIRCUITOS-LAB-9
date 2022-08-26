@@ -34,6 +34,23 @@ Demostrar el uso de los números complejos para las operaciones aritméticas de 
 
 ***
 
+![image](https://user-images.githubusercontent.com/105686218/186897934-6a635227-1a37-4317-a986-32a98338278c.png)
+
+![image](https://user-images.githubusercontent.com/105686218/186898000-ea5c2917-a616-47f4-80f1-84b3e213101a.png)
+
+![image](https://user-images.githubusercontent.com/105686218/186898079-12c4975f-3397-4c1a-a8bf-7b2c89554f28.png)
+
+![image](https://user-images.githubusercontent.com/105686218/186898134-f0a2aed1-b337-43f6-a28c-ef6283f16761.png)
+
+![image](https://user-images.githubusercontent.com/105686218/186898175-20c03701-1b3e-461e-a83c-0049422fad4f.png)
+
+![image](https://user-images.githubusercontent.com/105686218/186898232-114f425b-596e-4a7f-b44c-1ec4e3eea518.png)
+
+![image](https://user-images.githubusercontent.com/105686218/186898279-ad0c8cf7-18dd-4cae-a8f7-483fe73469a0.png)
+
+
+***
+
 **3. Requerimientos previos**
 
 ***
