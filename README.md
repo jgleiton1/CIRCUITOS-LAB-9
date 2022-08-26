@@ -14,9 +14,19 @@
 
    **1.1. Objetivo General** 
 
+Demostrar el uso de los números complejos para las operaciones aritméticas de cantidades fasoriales, mediante la resolución de ejercicios analíticamente y con calculadora, afianzando los conocimientos adquiridos en clase sobre el tema propuesto.
+
 ***
 
   **1.2. Objetivos Específicos:**
+
+- Comprender que son los números complejos, fasores y su representación gráfica, mediante una búsqueda bibliográfica.
+
+- Identificar las operaciones de los números complejos en su forma polar y rectangular, mediante la resolución de ejercicios paso a paso y con la ayuda de una calculadora.
+
+- Explicar el desarrollo del laboratorio, mediante un video, el cual exponga la teoría y las prácticas realizadas.
+
+- Comparar los resultados que se obtienen en la resolución analítica y experimental de los ejercicios. 
 
 ***
 
@@ -25,17 +35,6 @@
 ***
 
 **3. Requerimientos previos**
-
-
-![image](https://user-images.githubusercontent.com/94153604/155648597-be334852-da4d-4c4d-a9cf-6180b94d8a57.png)
-![image](https://user-images.githubusercontent.com/94153604/155648598-97f3b168-77db-48e8-9c9f-04334d596a4b.png)
-
-![image](https://user-images.githubusercontent.com/94153604/155648619-bf73342e-87a5-4ad6-beac-bef3cb2f6724.png)
-![image](https://user-images.githubusercontent.com/94153604/155648636-c07a6c6d-0a05-4e9e-80ba-853f5b5b118c.png)
-
-![image](https://user-images.githubusercontent.com/94153604/155648644-44923555-0dc1-4962-950b-551846766f4b.png)
-![image](https://user-images.githubusercontent.com/94153604/155648652-9716f62f-9db1-48b4-ac2c-f02edb560ad9.png)
-![image](https://user-images.githubusercontent.com/94153604/155648661-c2ac4649-f569-4aea-902a-34a87c852aa4.png)
 
 ***
 
@@ -156,9 +155,18 @@ En polar:
 
 ***
 
-**6. Cálculo de error**
+9.5.4 Resuelva las operaciones anteriores por medio de la calculadora y compare
+resultados.
 
-![image](https://user-images.githubusercontent.com/94011974/170057592-12d7c136-22cd-4cac-9532-0e92eb81f1b9.png)
+![image](https://user-images.githubusercontent.com/94153604/155648597-be334852-da4d-4c4d-a9cf-6180b94d8a57.png)
+![image](https://user-images.githubusercontent.com/94153604/155648598-97f3b168-77db-48e8-9c9f-04334d596a4b.png)
+
+![image](https://user-images.githubusercontent.com/94153604/155648619-bf73342e-87a5-4ad6-beac-bef3cb2f6724.png)
+![image](https://user-images.githubusercontent.com/94153604/155648636-c07a6c6d-0a05-4e9e-80ba-853f5b5b118c.png)
+
+![image](https://user-images.githubusercontent.com/94153604/155648644-44923555-0dc1-4962-950b-551846766f4b.png)
+![image](https://user-images.githubusercontent.com/94153604/155648652-9716f62f-9db1-48b4-ac2c-f02edb560ad9.png)
+![image](https://user-images.githubusercontent.com/94153604/155648661-c2ac4649-f569-4aea-902a-34a87c852aa4.png)
 
 ***
 
@@ -167,6 +175,14 @@ En polar:
 ***
 
 **8. Conclusiones**
+
+- A partir de lo investigado anteriormente, se puede decir que el fasor se caracteriza por ser una cantidad que cambia dependiendo del tiempo, pero en electrónica se le considera un vector y se presenta en dos tipos de coordenadas: rectangulares representadas de (A + jB) y las polares (C∠θ). En su representación grafico en el plano complejo el eje vertical es el eje imaginario y el eje horizontal se le denomina el eje real, mientras que en posiciones angulares el eje real positivo representa cero grados, en sentido contrario a las manecillas del reloj el eje j positivo 90 grados, el eje real negativo grados, el eje j negativo 270 y tras una rotación completa de 360 grados, se regresa al eje real positivo.
+
+- Al momento de trabajar tanto con coordenadas polares y coordenadas rectangulares se puede realizar diferentes operaciones, como transformaciones, suma, resta, multiplicación y división. Cuando se calcula estas operaciones analíticamente nos lleva más tiempo según el método que se utilice, por lo que cuando las operaciones sean de sumar y restar es más viable utilizar coordenadas rectangulares, mientras que cuando vamos a multiplicar o dividir es mejor utilizar coordenadas polares y las formulas específicas que facilitan el proceso.
+
+- En la justificación del video se pude observar los ejercicios realizados sobre números complejos para entender de mejor manera sus propiedades y como realizar el ejercicio para no resulte tan complejo ya que dependiendo de la operación se trabaja con coordenadas rectangulares o polares.
+
+- Como se pudo observar los valores que se obtuvieron analíticamente y con la calculadora solo varían en decimales, por lo tanto, se puede afirmar su veracidad.
 
 ***
 
