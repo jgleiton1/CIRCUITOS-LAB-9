@@ -46,7 +46,7 @@ Demostrar el uso de los números complejos para las operaciones aritméticas de 
 
 **5. Procedimiento**
 
-Transforme a su forma polar:
+**9.5.1. Sin emplear calculadora. Transforme a su forma polar:**
 
 a) 2 + 3 j 
 
@@ -65,7 +65,7 @@ d) -6 – 3.2 j
 
 ![image](https://user-images.githubusercontent.com/93958596/155653460-35b78282-41af-4d11-aa69-cabe0099ebc5.png)
 
-Transforme a su forma rectangular:
+**9.5.2 Sin emplear calculadora. Transforme a su forma rectangular:**
 
 a) 36 | -10° 
 
@@ -83,7 +83,7 @@ d) 45 | -117.9°
 
 ![image](https://user-images.githubusercontent.com/93958596/155653719-ae740f33-3c10-41c1-b8a9-a6dcb9b04ffc.png)
 
-Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar:
+**9.5.3. Sin emplear calculadora. Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.**
 
 ![image](https://user-images.githubusercontent.com/93958596/155653870-e1b9187d-6c9d-4abf-8597-c7f73e5bedd5.png)
 
@@ -155,8 +155,7 @@ En polar:
 
 ***
 
-9.5.4 Resuelva las operaciones anteriores por medio de la calculadora y compare
-resultados.
+**9.5.4 Resuelva las operaciones anteriores por medio de la calculadora y compare resultados.**
 
 ![image](https://user-images.githubusercontent.com/94153604/155648597-be334852-da4d-4c4d-a9cf-6180b94d8a57.png)
 ![image](https://user-images.githubusercontent.com/94153604/155648598-97f3b168-77db-48e8-9c9f-04334d596a4b.png)
